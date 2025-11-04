@@ -1,5 +1,5 @@
 {
-    "version": "2.78.0",
+    "version": "2.79.0",
     "description": "A cross-platform command-line tool to connect to Azure and execute administrative commands on Azure resources",
     "homepage": "https://aka.ms/cli",
     "license": "MIT",
@@ -9,12 +9,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://azcliprod.blob.core.windows.net/msi/azure-cli-2.78.0-x64.msi",
-            "hash": "07625cc9b4e7e4c05c4b0ddf012e20dc27f4efb0953cc064cd52df6fa299560a"
+            "url": "https://azcliprod.blob.core.windows.net/msi/azure-cli-2.79.0-x64.msi",
+            "hash": "9f2ebbc4c57efddb9ddfc8d73cb50943cda14de01a9f8dc1c4d893abe371004f"
         },
         "32bit": {
-            "url": "https://azcliprod.blob.core.windows.net/msi/azure-cli-2.78.0.msi",
-            "hash": "72cfa1fbf066e41dbc71887f8d566f373c4927fd8c44fd75f4a886090d21fcd6"
+            "url": "https://azcliprod.blob.core.windows.net/msi/azure-cli-2.79.0.msi",
+            "hash": "f970562c9dc126d7945e1e9debbe49854db1da733fd88f061a3587876a644af1"
         }
     },
     "extract_dir": "Microsoft SDKs\\Azure\\CLI2",
