@@ -1,5 +1,5 @@
 {
-    "version": "2.46.1",
+    "version": "2.46.7",
     "description": "Tool for customizing the Spotify client.",
     "homepage": "https://spicetify.app/",
     "license": "LGPL-2.1-only",
@@ -9,12 +9,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/khanhas/spicetify-cli/releases/download/v2.46.1/spicetify-2.46.1-windows-x64.zip",
-            "hash": "9583fd13726b7496d1b1bb177fbbfbea37ea1af1ca2b29234c49a8aa22a3708c"
+            "url": "https://github.com/khanhas/spicetify-cli/releases/download/v2.46.7/spicetify-2.46.7-windows-x64.zip",
+            "hash": "c5a723d31eae529ba13f6922a7a027124238c7f3da7edd182a73eab03c447e9e"
         },
         "32bit": {
-            "url": "https://github.com/khanhas/spicetify-cli/releases/download/v2.46.1/spicetify-2.46.1-windows-x32.zip",
-            "hash": "1a278070da983cb0213d2f6691cba392d818f0721765a4621ab496029d211f86"
+            "url": "https://github.com/khanhas/spicetify-cli/releases/download/v2.46.7/spicetify-2.46.7-windows-x32.zip",
+            "hash": "2dc7e44c5e1da5acb2c36c64becba2c5715e4d3e1c790fd5b27fc0926034581e"
         }
     },
     "bin": "spicetify.exe",
